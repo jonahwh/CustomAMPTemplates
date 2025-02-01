@@ -52,6 +52,19 @@
         "EnumValues": {}
     },
     {
+        "DisplayName": "Display Image",
+        "Category": "Half-Life:stadia_controller",
+        "Subcategory": "Server:dns:1",
+        "Description": "Sets the image to display in the AMP dashboard",
+        "Keywords": "image,display,icon",
+        "FieldName":  "display_iamge",
+        "InputType": "text",
+        "ParamFieldName": "display_image",
+        "DefaultValue": "steam:70",
+        "Placeholder": "steam:70",
+        "EnumValues": {}
+  },
+    {
         "DisplayName": "LAN Server",
         "Category": "Half-Life:stadia_controller",
         "Subcategory": "Server:dns:1",
