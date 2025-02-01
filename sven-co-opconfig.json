@@ -20,7 +20,7 @@
         "Description": "See the Security and Privacy menu for configurable options for the server's RCON",
         "Keywords": "rcon,password,rcon_password",
         "FieldName": "$RemoteAdminPassword",
-        "InputType": "text",
+        "InputType": "hidden",
         "IsFlagArgument": false,
         "ParamFieldName": "rcon_password",
         "EnumValues": {}
