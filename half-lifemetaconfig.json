@@ -1,13 +1,13 @@
 
 [
     {
-        "ConfigFile": "valve/server.cfg",
+        "ConfigFile": "{{mod}}/server.cfg",
         "AutoMap": true,
         "ConfigType": "template",
         "ConfigFileTemplate": "half-life/AMP_server.cfg"
     },
     {
-        "ConfigFile": "valve/motd.txt",
+        "ConfigFile": "{{mod}}/motd.txt",
         "ConfigType": "kvp",
         "ConfigFormat": "{0}{1}",
         "Subsections": [

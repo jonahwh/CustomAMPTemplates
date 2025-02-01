@@ -37,6 +37,21 @@
         "EnumValues": {}
     },
     {
+        "DisplayName": "App ID",
+        "Category": "Half-Life:stadia_controller",
+        "Subcategory": "Server:dns:1",
+        "Description": "Sets the App ID of the game server to run. Do not change this unless you know what you are doing!",
+        "Keywords": "app,id,appid",
+        "FieldName":  "steam_app_id",
+        "InputType": "number",
+        "MinValue": "0",
+        "MaxValue": "99999999",
+        "ParamFieldName": "steam_app_id",
+        "DefaultValue": "70",
+        "Placeholder": "70",
+        "EnumValues": {}
+    },
+    {
         "DisplayName": "LAN Server",
         "Category": "Half-Life:stadia_controller",
         "Subcategory": "Server:dns:1",
