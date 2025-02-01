@@ -1,0 +1,21 @@
+[
+    {
+        "ConfigFile": "{{mod}}/server.cfg",
+        "AutoMap": true,
+        "ConfigType": "template",
+        "ConfigFileTemplate": "half-life-wine/AMP_server.cfg"
+    },
+    {
+        "ConfigFile": "{{mod}}/motd.txt",
+        "ConfigType": "kvp",
+        "ConfigFormat": "{0}{1}",
+        "Subsections": [
+            {
+                "Heading": "$root",
+                "SettingMappings": {
+                    "": "motd"
+                }
+            }
+        ]
+    }
+]
