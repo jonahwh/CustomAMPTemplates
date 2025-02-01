@@ -14,16 +14,16 @@
         "EnumValues": {}
     },
     {
-      "DisplayName": "RCON Password",
-      "Category": "Sven Co-op:stadia_controller",
-      "Subcategory": "Server:dns:1",
-      "Description": "See the Security and Privacy menu for configurable options for the server's RCON",
-      "Keywords": "rcon,password,rcon_password",
-      "FieldName": "$RemoteAdminPassword",
-      "InputType": "hidden",
-      "IsFlagArgument": false,
-      "ParamFieldName": "rcon_password",
-      "EnumValues": {}
+        "DisplayName": "RCON Password",
+        "Category": "Sven Co-op:stadia_controller",
+        "Subcategory": "Server:dns:1",
+        "Description": "See the Security and Privacy menu for configurable options for the server's RCON",
+        "Keywords": "rcon,password,rcon_password",
+        "FieldName": "$RemoteAdminPassword",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "rcon_password",
+        "EnumValues": {}
     },
     {
         "DisplayName": "Max Players",
