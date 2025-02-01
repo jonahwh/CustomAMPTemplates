@@ -9,7 +9,7 @@
                 "SettingMappings": {
                     "hostname": "hostname",
                     "log": "log",
-                    "rcon_password": "$RemoteAdminPassword",
+                    "rcon_password": "rcon_password",
                     "maxplayers": "$MaxUsers",
                     "servercfgfile": "servercfgfile",
                     "lservercfgfile": "lservercfgfile",
