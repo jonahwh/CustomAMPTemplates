@@ -136,7 +136,7 @@
         "UpdateStageName": "AMX Mod X Plugin Download",
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://www.amxmodx.org/release/amxmodx-1.8.2-base-linux.tar.gz",
+        "UpdateSourceData": "https://www.amxmodx.org/amxxdrop/1.9/amxmodx-1.9.0-git5294-base-linux.tar.gz",
         "UpdateSourceTarget": "{{$FullBaseDir}}cstrike",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": true,
