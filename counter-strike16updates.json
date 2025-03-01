@@ -12,7 +12,7 @@
         "UpdateStageName": "ReHLDS Download",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "GithubRelease",
-        "UpdateSourceArgs": "dreamstalker/rehlds",
+        "UpdateSourceArgs": "rehlds/ReGameDLL_CS",
         "UpdateSourceTarget": "{{$FullBaseDir}}",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": true,
